@@ -1,0 +1,8 @@
+footer p {
+    font-size: 1rem;
+    transition: transform 0.3s ease;
+}
+
+footer p:hover {
+    transform: scale(1.05);
+}
